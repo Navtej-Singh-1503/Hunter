@@ -93,31 +93,15 @@ Antivirus/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Navtej-Singh-1503/Hunter
 cd Antivirus
 ```
 
 ### 2. Install dependencies
 
 ```
-pip install --upgrade google-generativeai
+sudo python3 setup.py
 ```
-
-### 3. Configure API Key
-
-Edit:
-
-```
-FILES/api.py
-```
-
-Add:
-
-```
-apikey = "YOUR_GEMINI_API_KEY"
-```
-
----
 
 ## Usage
 
