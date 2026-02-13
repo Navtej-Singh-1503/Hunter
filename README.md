@@ -135,8 +135,6 @@ Example:
 ## Security Notice
 
 - This tool is designed for educational use.
-- Always test inside a virtual machine.
-- Do not scan unknown executables on your main system.
 - AI-based analysis should not replace professional antivirus software.
 
 ---
