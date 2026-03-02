@@ -139,17 +139,7 @@ Example:
 
 ---
 
-## License
 
-Choose a license before publishing.
-
-Recommended:
-- MIT License (open and flexible)
-- GPL v3 (strong open-source protection)
-
-Add a `LICENSE` file before public release.
-
----
 
 ## Author
 
